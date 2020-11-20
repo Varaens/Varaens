@@ -1,5 +1,6 @@
-### Hi there 👋
+### Hello everyone !
 
+My name is Floria, I'm 23 years old and I'm curently studying in Nantes at Digital Campus 
 <!--
 **Varaens/Varaens** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
