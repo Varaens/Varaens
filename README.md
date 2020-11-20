@@ -7,4 +7,4 @@ a near future. For the Alliance ! 🎮
 
 [<img width="2%" src="https://www.flaticon.com/svg/static/icons/svg/174/174857.svg" />](https://www.linkedin.com/in/florian-baron-3807791b8/)
 
-[Voici mon CV](https://github.com/Varaens/Varaens/raw/main/CV_2020%20blank%20title.pdf)
+[Here's my resume if you wanna check it out](https://github.com/Varaens/Varaens/raw/main/CV_2020%20blank%20title.pdf)
