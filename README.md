@@ -2,7 +2,8 @@
 
 My name is Florian, I'm 23 years old and I'm curently studying in Nantes at Digital Campus.
 I'm a huge pc components and videogames enthusiast. I mostly enjoy metal, rock, lo-fi
-[<img width="2.5%" src="flaticon.com/svg/static/icons/svg/174/174857.svg" />](linkedin.com)
+
+[<img width="2.5%" src="flaticon.com/svg/static/icons/svg/174/174857.svg" />] (linkedin.com)
 <!--
 **Varaens/Varaens** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
